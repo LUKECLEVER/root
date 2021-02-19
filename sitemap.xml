@@ -14,6 +14,13 @@
 </url>
 
 <url>
+ <loc>http://luyao.likesyou.org/#</loc>
+ <priority>0.3</priority>
+ <lastmod>2021-02-18</lastmod>
+ <changefreq>always</changefreq>
+</url>
+    
+<url>
  <loc>https://status.luyaoguagua.top/</loc>
  <priority>0.3</priority>
  <lastmod>2021-02-18</lastmod>
@@ -36,13 +43,6 @@
 
 <url>
  <loc>https://start.luyaoguagua.top/</loc>
- <priority>0.3</priority>
- <lastmod>2021-02-18</lastmod>
- <changefreq>always</changefreq>
-</url>
-
-<url>
- <loc>https://music.163.com/</loc>
  <priority>0.3</priority>
  <lastmod>2021-02-18</lastmod>
  <changefreq>always</changefreq>
