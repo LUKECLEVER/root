@@ -35,5 +35,11 @@
  <priority>1</priority>
  <changefreq>always</changefreq>
 </url>
-
+    
+<url>
+ <loc>https://luyaoguagua.top/guapi.html</loc>
+ <priority>1</priority>
+ <changefreq>always</changefreq>
+</url>
+    
 </urlset>
