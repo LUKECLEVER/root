@@ -11,6 +11,12 @@
  <priority>1</priority>
  <changefreq>always</changefreq>
 </url>
+    
+<url>
+ <loc>https://www.luyaoguagua.top/en.html</loc>
+ <priority>1</priority>
+ <changefreq>always</changefreq>
+</url>
 
 <url>
  <loc>https://www.luyaoguagua.top/start.html</loc>
